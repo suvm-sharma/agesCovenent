@@ -1,0 +1,16 @@
+{
+  "name": "agescovenent",
+  "version": "1.0.0",
+  "description": "Creating Captcha Solving Api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.7",
+    "nodemon": "^2.0.22",
+    "tesseract.js": "^4.0.2"
+  }
+}
